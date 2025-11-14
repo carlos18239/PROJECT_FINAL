@@ -1,4 +1,4 @@
-# Simple Federated Learning System: Educational Version
+# Simple Federated Learning System
 
 [comment]: <> (![logo]&#40;docs/_src/_static/logo.png&#41;)
 
